@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27179252205",
+    "project_id": "guardarfotoyenviara",
+    "storage_bucket": "guardarfotoyenviara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27179252205:android:45e6b6eec89065439bcfe4",
+        "android_client_info": {
+          "package_name": "com.alphazetakapp.guardarfotoyenviaragmail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVREgOKcyv_QSNt86TVdTymc1zFdtlTm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
